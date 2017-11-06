@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Neo4j.Driver" Version="1.5.0" />
+    <PackageReference Include="neo4jclient" Version="2.0.0.10" />
+  </ItemGroup>
+</Project>

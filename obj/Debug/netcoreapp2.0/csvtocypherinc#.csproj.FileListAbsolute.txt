@@ -1,0 +1,10 @@
+C:\projectworks\csvtocypherinc#\bin\Debug\netcoreapp2.0\csvtocypherinc#.deps.json
+C:\projectworks\csvtocypherinc#\bin\Debug\netcoreapp2.0\csvtocypherinc#.runtimeconfig.json
+C:\projectworks\csvtocypherinc#\bin\Debug\netcoreapp2.0\csvtocypherinc#.runtimeconfig.dev.json
+C:\projectworks\csvtocypherinc#\bin\Debug\netcoreapp2.0\csvtocypherinc#.dll
+C:\projectworks\csvtocypherinc#\bin\Debug\netcoreapp2.0\csvtocypherinc#.pdb
+C:\projectworks\csvtocypherinc#\obj\Debug\netcoreapp2.0\csvtocypherinc#.csproj.CoreCompileInputs.cache
+C:\projectworks\csvtocypherinc#\obj\Debug\netcoreapp2.0\csvtocypherinc#.AssemblyInfoInputs.cache
+C:\projectworks\csvtocypherinc#\obj\Debug\netcoreapp2.0\csvtocypherinc#.AssemblyInfo.cs
+C:\projectworks\csvtocypherinc#\obj\Debug\netcoreapp2.0\csvtocypherinc#.dll
+C:\projectworks\csvtocypherinc#\obj\Debug\netcoreapp2.0\csvtocypherinc#.pdb
